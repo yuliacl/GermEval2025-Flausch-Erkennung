@@ -4,10 +4,11 @@ layout: default
 
 ### Background
 
-The task is to identify expressions of "candy speech" (Flausch) in online posts (YouTube comments).
-We define Flausch as an expression of positive attitudes in social media toward individuals or their output (videos, comments, etc.).
-The purpose of Flausch is to encourage, cheer up, support and empower others. 
+The task is to identify expressions of candy speech („Flausch“) in online posts (YouTube comments).
+We define candy speech as an expression of positive attitudes in social media toward individuals or their output (videos, comments, etc.).
+The purpose of candy speech is to encourage, cheer up, support and empower others. 
 It can be viewed as the counterpart to hate speech, as it also aims to influence the self-image of the target person or group, but in a positive way.
+
 
 ### Motivation
 
@@ -17,14 +18,14 @@ However, there is much less focus on identifying and promoting positive supporti
 ### Task Details
 
 Candy speech detection is the task of identifying the presence of candy speech (at the span level) in a given YouTube comment thread and classifying each expression in one of the predefined categories. 
-This shared task focuses on German speaking YouTube communities. Participants will be provided with a dataset of YouTube comments manually annotated for different types of Flausch expressions. 
+This shared task focuses on German speaking YouTube communities. Participants will be provided with a dataset of YouTube comments manually annotated for different types of candy speech expressions. 
 
 The shared task includes the two following subtasks:
 
-#### Subtask 1
-The goal of this task is to identify whether the given comment contains Flausch or not. The dataset is manually annotated for the presence of Flausch (binary classification task).
+#### Subtask 1: Coarse-Grained Classification
+The goal of this task is to identify whether the given comment contains candy speech or not. The dataset is manually annotated for the presence of candy speech (binary classification task).
 
-#### Subtask 2
+#### Subtask 2: Fine-Grained Classification
 The goal of this subtask is to identify the span of each candy speech expression in a given text and classify it in one of the predefined categories. The dataset is manually annotated for ten different types of candy speech expressions, such as "positive feedback", "compliment", "group membership" etc.
 
 
@@ -42,8 +43,8 @@ The test data and training data do not overlap wrt. to the original content crea
 <thead>
 <tr class="header">
 <th>YouTube comment</th>
-<th>Flausch (Subtask 1)</th>
-<th>Flausch type (Subtask 2)</th>
+<th>Candy speech (Subtask 1)</th>
+<th>Candy speech type (Subtask 2)</th>
 </tr>
 </thead>
 <tbody>
@@ -78,14 +79,14 @@ The test data and training data do not overlap wrt. to the original content crea
 
 ### Important dates
 
-- [Trial data](/data/trial/trial-data.md) available 15. Februar, 2025
-- [Training data](/data/training/training-data.md) available 3. March, 2025
-- [Test data](/data/test/test-data.md) available 17. May, 2025
-- Evaluation start 16. June, 2025
-- Evaluation end 27. June, 2025
-- Paper submission due 11. July, 2025
-- Camera ready due 15. August, 2025
-- GermEval workshop 8-12 September 2025 (co-located with KONVENS)
+- [Trial data](/data/trial/trial-data.md) available: February 15, 2025
+- [Training data](/data/training/training-data.md) available: March 3, 2025
+- [Test data](/data/test/test-data.md) available: May 17, 2025
+- Evaluation start: June 16, 2025
+- Evaluation end: June 27, 2025
+- Paper submission due: July 11, 2025
+- Camera ready due: August 15, 2025
+- GermEval workshop: September 8-12, 2025 (co-located with KONVENS)
 
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
