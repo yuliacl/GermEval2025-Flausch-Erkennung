@@ -94,8 +94,8 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 
 ### Organizers
 
-- [Yulia Clausen](), Ruhr-Universtität Bochum, Germany
-- [Tatjana Scheffler](http://staff.germanistik.rub.de/digitale-forensische-linguistik/), Ruhr-Universtität Bochum, Germany
+- [Yulia Clausen](), Ruhr-Universität Bochum, Germany
+- [Tatjana Scheffler](http://staff.germanistik.rub.de/digitale-forensische-linguistik/), Ruhr-Universität Bochum, Germany
 - [Michael Wiegand](https://homepage.univie.ac.at/michael.wiegand/), Universität Wien, Austria
 
 __Contact:__ <germeval-2025-candy-speech@ruhr-uni-bochum.de> 
