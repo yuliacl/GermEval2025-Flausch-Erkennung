@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**GermEval 2025 features a task on Candy-speech detection, co-located with KONVENS.**
+**GermEval 2025 features a task on candy speech detection, co-located with KONVENS.**
 
 [Data](#data)\
 [Important dates](#dates)
