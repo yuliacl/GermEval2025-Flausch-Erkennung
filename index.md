@@ -2,7 +2,12 @@
 layout: default
 ---
 
-### Background
+**GermEval 2025 features a task on Candy-speech detection, co-located with KONVENS.**
+
+[Data](#data)\
+[Important dates](#dates)
+
+### Background 
 
 The task is to identify expressions of candy speech („Flausch“) in online posts (YouTube comments).
 We define candy speech as an expression of positive attitudes in social media toward individuals or their output (videos, comments, etc.).
@@ -29,7 +34,7 @@ The goal of this task is to identify whether the given comment contains candy sp
 The goal of this subtask is to identify the span of each candy speech expression in a given text and classify it in one of the predefined categories. The dataset is manually annotated for ten different types of candy speech expressions, such as "positive feedback", "compliment", "group membership" etc.
 
 
-### Data
+### Data {#data}
 
 We will provide the participants with annotated training (and development) and unlabeled test datasets containing complete written, German language comment threads under YouTube videos posted by different content creators. 
 The content creators and communities vary in topic, style, age group, etc. 
@@ -77,7 +82,7 @@ The test data and training data do not overlap wrt. to the original content crea
 </table>
 
 
-### Important dates
+### Important dates {#dates}
 
 - [Trial data](/data/trial/trial-data.md) available: February 15, 2025
 - [Training data](/data/training/training-data.md) available: March 3, 2025
