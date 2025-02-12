@@ -40,7 +40,7 @@ We will provide the participants with annotated training (and development) and u
 The content creators and communities vary in topic, style, age group, etc. 
 The test data and training data do not overlap wrt. to the original content creator of the video – the communities commenting on the videos can therefore be expected to differ.
 
-The data will be stored in OSF, and access will be provided per request via this link: https://osf.io/4g8zb/
+The data will be hosted on OSF and can be accessed per request via this [Link](https://osf.io/4g8zb/).
 
 
 #### Sample Data
@@ -96,7 +96,7 @@ The data will be stored in OSF, and access will be provided per request via this
 - GermEval workshop: September 8-12, 2025 (co-located with KONVENS)
 
 
-All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
+All deadlines are 23:59 UTC-12 ([anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
 
 
 ### Organizers
@@ -105,7 +105,4 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [Tatjana Scheffler](http://staff.germanistik.rub.de/digitale-forensische-linguistik/), Ruhr-Universität Bochum, Germany
 - [Michael Wiegand](https://homepage.univie.ac.at/michael.wiegand/), Universität Wien, Austria
 
-__Contact:__ <germeval-2025-candy-speech@ruhr-uni-bochum.de> 
- 
-
- 
+__Contact:__ <germeval-2025-candy-speech@ruhr-uni-bochum.de>
