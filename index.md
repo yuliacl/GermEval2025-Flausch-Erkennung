@@ -40,6 +40,8 @@ We will provide the participants with annotated training (and development) and u
 The content creators and communities vary in topic, style, age group, etc. 
 The test data and training data do not overlap wrt. to the original content creator of the video – the communities commenting on the videos can therefore be expected to differ.
 
+The data will be stored in OSF, and access will be provided per request via this link: https://osf.io/4g8zb/
+
 
 #### Sample Data
 
@@ -84,9 +86,9 @@ The test data and training data do not overlap wrt. to the original content crea
 
 ### Important dates {#dates}
 
-- [Trial data](/data/trial/trial-data.md) available: February 15, 2025
-- [Training data](/data/training/training-data.md) available: March 3, 2025
-- [Test data](/data/test/test-data.md) available: May 17, 2025
+- Trial data available: February 15, 2025
+- Training data available: March 3, 2025
+- Test data available: May 17, 2025
 - Evaluation start: June 16, 2025
 - Evaluation end: June 27, 2025
 - Paper submission due: July 11, 2025
