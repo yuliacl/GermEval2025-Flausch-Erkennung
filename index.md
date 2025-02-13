@@ -10,7 +10,7 @@ layout: default
 ### Background 
 
 The task is to identify expressions of candy speech („Flausch“) in online posts (YouTube comments).
-We define candy speech as an expression of positive attitudes in social media toward individuals or their output (videos, comments, etc.).
+We define candy speech as expression of positive attitudes on social media toward individuals or their output (videos, comments, etc.).
 The purpose of candy speech is to encourage, cheer up, support and empower others. 
 It can be viewed as the counterpart to hate speech, as it also aims to influence the self-image of the target person or group, but in a positive way.
 
@@ -38,9 +38,10 @@ The goal of this subtask is to identify the span of each candy speech expression
 
 We will provide the participants with annotated training (and development) and unlabeled test datasets containing complete written, German language comment threads under YouTube videos posted by different content creators. 
 The content creators and communities vary in topic, style, age group, etc. 
-The test data and training data do not overlap wrt. to the original content creator of the video – the communities commenting on the videos can therefore be expected to differ.
+The training and test datasets do not overlap in terms of YouTube videos. Furthermore, the test dataset mostly contains (comments on) videos from content creators that are different from those in the training dataset. The communities commenting on these videos can therefore be expected to differ.
+ 
 
-The data will be hosted on OSF and can be accessed per request via this [Link](https://osf.io/4g8zb/).
+**The data will be hosted on OSF and can be accessed per request via this [Link](https://osf.io/4g8zb/).**
 
 
 #### Sample Data
