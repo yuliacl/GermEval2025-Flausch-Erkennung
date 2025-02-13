@@ -22,10 +22,10 @@ However, there is much less focus on identifying and promoting positive supporti
 
 ### Task Details
 
-Candy speech detection is the task of identifying the presence of candy speech (at the span level) in a given YouTube comment thread and classifying each expression in one of the predefined categories. 
+Candy speech detection is the task of identifying the presence of candy speech (at the span level) in a given YouTube comment and classifying each expression in one of the predefined categories. 
 This shared task focuses on German speaking YouTube communities. Participants will be provided with a dataset of YouTube comments manually annotated for different types of candy speech expressions. 
 
-The shared task includes the two following subtasks:
+The shared task includes the following two subtasks:
 
 #### Subtask 1: Coarse-Grained Classification
 The goal of this task is to identify whether the given comment contains candy speech or not. The dataset is manually annotated for the presence of candy speech (binary classification task).
@@ -94,7 +94,7 @@ The training and test datasets do not overlap in terms of YouTube videos. Furthe
 - Evaluation end: June 27, 2025
 - Paper submission due: July 11, 2025
 - Camera ready due: August 15, 2025
-- GermEval workshop: September 8-12, 2025 (co-located with KONVENS)
+- GermEval workshop: September 8 or 12, 2025 (co-located with KONVENS)
 
 
 All deadlines are 23:59 UTC-12 ([anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
