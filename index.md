@@ -4,6 +4,10 @@ layout: default
 
 **GermEval 2025 features a task on candy speech detection, co-located with KONVENS.**
 
+**The task is oganized by Project D03, CRC 1567 "Virtual Lifeworlds"**.
+
+<img src="assets/sfb-logo.png" width="120">
+
 [Data](#data)\
 [Important dates](#dates)
 
