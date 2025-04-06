@@ -4,10 +4,6 @@ layout: default
 
 **GermEval 2025 features a task on candy speech detection, co-located with KONVENS.**
 
-**The task is oganized by Project D03, CRC 1567 "Virtual Lifeworlds"**.
-
-<img src="assets/sfb-logo.png" width="120">
-
 [Data](#data)\
 [Important dates](#dates)
 
@@ -45,7 +41,9 @@ The content creators and communities vary in topic, style, age group, etc.
 The training and test datasets do not overlap in terms of YouTube videos. Furthermore, the test dataset mostly contains (comments on) videos from content creators that are different from those in the training dataset. The communities commenting on these videos can therefore be expected to differ.
  
 
-**The data will be hosted on OSF and can be accessed per request via this [Link](https://osf.io/4g8zb/).**
+**The data is hosted on OSF and can be accessed per request via this [Link](https://osf.io/4g8zb/).**
+
+**Participants will submit their system outputs on Codabench. The link will be provided on this webpage in due time.**
 
 
 #### Sample Data
@@ -93,7 +91,7 @@ The training and test datasets do not overlap in terms of YouTube videos. Furthe
 
 - Trial data available: February 15, 2025
 - Training data available: March 3, 2025
-- Test data available: May 17, 2025
+- Test data available: June 10, 2025
 - Evaluation start: June 16, 2025
 - Evaluation end: June 27, 2025
 - Paper submission due: July 11, 2025
@@ -109,5 +107,9 @@ All deadlines are 23:59 UTC-12 ([anywhere on Earth](https://en.wikipedia.org/wik
 - [Yulia Clausen](), Ruhr-Universität Bochum, Germany
 - [Tatjana Scheffler](http://staff.germanistik.rub.de/digitale-forensische-linguistik/), Ruhr-Universität Bochum, Germany
 - [Michael Wiegand](https://homepage.univie.ac.at/michael.wiegand/), Universität Wien, Austria
+
+**The shared task is conducted as part of the project D03, CRC 1567 "Virtual Lifeworlds"**.
+
+<img src="assets/sfb-logo.png" width="120">
 
 __Contact:__ <germeval-2025-candy-speech@ruhr-uni-bochum.de>
