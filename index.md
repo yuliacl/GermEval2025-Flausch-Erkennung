@@ -94,7 +94,7 @@ The training and test datasets do not overlap in terms of YouTube videos. Furthe
 - Evaluation end: June 27, 2025
 - Paper submission due: July 11, 2025
 - Camera ready due: August 15, 2025
-- GermEval workshop: September 8 or 12, 2025 (co-located with KONVENS)
+- GermEval workshop: September 10, 2025 (co-located with KONVENS)
 
 
 All deadlines are 23:59 UTC-12 ([anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
