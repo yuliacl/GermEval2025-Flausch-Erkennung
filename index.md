@@ -14,7 +14,6 @@ We define candy speech as expression of positive attitudes on social media towar
 The purpose of candy speech is to encourage, cheer up, support and empower others. 
 It can be viewed as the counterpart to hate speech, as it also aims to influence the self-image of the target person or group, but in a positive way.
 
-
 ### Motivation
 
 Numerous methods have been developed for detecting and censoring negative speech (e.g., hate speech or offensive or harmful language) on social media platforms. 
@@ -22,8 +21,8 @@ However, there is much less focus on identifying and promoting positive supporti
 
 ### Task Details
 
-Candy speech detection is the task of identifying the presence of candy speech (at the span level) in a given YouTube comment and classifying each expression in one of the predefined categories. 
-This shared task focuses on German speaking YouTube communities. Participants will be provided with a dataset of YouTube comments manually annotated for different types of candy speech expressions. 
+Candy speech detection is the task of identifying the presence of candy speech (on the span level) in a given YouTube comment and classifying each such expression in one of the predefined categories. 
+This shared task focuses on German speaking YouTube communities. Participants will be provided with a dataset of YouTube comments manually annotated for different types of candy speech. 
 
 The shared task includes the following two subtasks:
 
@@ -31,17 +30,24 @@ The shared task includes the following two subtasks:
 The goal of this task is to identify whether the given comment contains candy speech or not. The dataset is manually annotated for the presence of candy speech (binary classification task).
 
 #### Subtask 2: Fine-Grained Classification
-The goal of this subtask is to identify the span of each candy speech expression in a given text and classify it in one of the predefined categories. The dataset is manually annotated for ten different types of candy speech expressions, such as "positive feedback", "compliment", "group membership" etc.
+The goal of this subtask is to identify the span of each candy speech expression in a given comment and classify it into one of the predefined categories. The dataset is manually annotated for ten different types of candy speech expressions, such as "positive feedback", "compliment", "group membership" etc.
 
+### Approaches and Evaluation
+
+Please note that we see the shared task not primarily as a pure (machine learning) engineering task, but as an opportunity for computational linguistic exploration. We therefore encourage participants to focus on the creative use of (linguistic) analysis, approaches, tools, and external ressources.
+
+In principle, all model types and approaches are allowed, but we prefer the use of open-source systems and models and freely available ressources to facilitate reproducibility.
+
+All submissions will be evaluated by the shared task organizers. We provide evaluation scripts based on precision, recall and f1 score (available with the data as specified below). The primary evaluation metric will be f1 score for Subtask 1 and a strict span-based f1 score for Subtask 2, though other metrics will be provided and analyzed to judge submissions and for development. 
 
 ### Data {#data}
 
-We will provide the participants with annotated training (and development) and unlabeled test datasets containing complete written, German language comment threads under YouTube videos posted by different content creators. 
+We will provide the participants with the annotated training (and development) and unlabeled test datasets containing complete written, German language comment threads under YouTube videos posted by different content creators. 
 The content creators and communities vary in topic, style, age group, etc. 
-The training and test datasets do not overlap in terms of YouTube videos. Furthermore, the test dataset mostly contains (comments on) videos from content creators that are different from those in the training dataset. The communities commenting on these videos can therefore be expected to differ.
+The training and test datasets do not overlap in terms of YouTube videos. Furthermore, the test dataset mostly contains (comments on) videos from content creators that differ from those in the training dataset. The communities commenting on these videos can therefore be expected to vary.
 
  
-**The data is hosted on OSF and can be accessed per request via this [Link](https://osf.io/4g8zb/).**
+**The data is hosted on OSF and can be accessed per request [here](https://osf.io/4g8zb/).**
 
 
 #### Sample Data
@@ -102,7 +108,7 @@ All deadlines are 23:59 UTC-12 ([anywhere on Earth](https://en.wikipedia.org/wik
 
 ### Participation
 
-Participants will submit their system outputs on Codabench. The links will be provided on this webpage in due time.
+The evaluation of submissions will be done on Codabench. The links will be provided on this webpage in due time.
 
 
 ### Organizers
