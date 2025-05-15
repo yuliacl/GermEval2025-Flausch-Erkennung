@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**GermEval 2025 features a task on candy speech detection, co-located with KONVENS.**
+**Candy speech detection is an official [GermEval shared task](https://germeval.github.io/) co-located with the [KONVENS 2025](https://konvens-2025.hs-hannover.de/) conference.** 
 
 [Data](#data)\
 [Important dates](#dates)
@@ -47,7 +47,7 @@ The content creators and communities vary in topic, style, age group, etc.
 The training and test datasets do not overlap in terms of YouTube videos. Furthermore, the test dataset mostly contains (comments on) videos from content creators that differ from those in the training dataset. The communities commenting on these videos can therefore be expected to vary.
 
  
-**The data is hosted on OSF and can be accessed per request [here](https://osf.io/4g8zb/).**
+**The data for the shared task is hosted on [OSF](https://osf.io/4g8zb/).**
 
 
 #### Sample Data
@@ -103,24 +103,23 @@ The training and test datasets do not overlap in terms of YouTube videos. Furthe
 - GermEval workshop: September 10, 2025 (co-located with KONVENS)
 
 
-All deadlines are 23:59 UTC-12 ([anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
-
+All deadlines are 00:00 UTC+0.
 
 ### Participation
 
-The evaluation of submissions will be done on Codabench. The links will be provided on this webpage in due time.
+You can register on CodaBench for the subtask you want to participate in: [Subtask 1](https://www.codabench.org/competitions/6120/)/[Subtask 2](https://www.codabench.org/competitions/7921/)
 
 
 ### Organizers
 
-- [Yulia Clausen](), Ruhr-Universität Bochum, Germany
+- [Yulia Clausen](https://www.virtuelle-lebenswelten.de/early-career-forum/clausen-yulia/), Ruhr-Universität Bochum, Germany
 - [Tatjana Scheffler](http://staff.germanistik.rub.de/digitale-forensische-linguistik/), Ruhr-Universität Bochum, Germany
 - [Michael Wiegand](https://homepage.univie.ac.at/michael.wiegand/), Universität Wien, Austria
 
 __Contact:__ <germeval-2025-candy-speech@ruhr-uni-bochum.de>
 
-This shared task is conducted as part of the project D03, CRC 1567 "Virtual Lifeworlds".
+This shared task is conducted as part of the project D03, [CRC 1567 "Virtual Lifeworlds"](https://www.virtuelle-lebenswelten.de/).
 
-<img src="assets/sfb-logo.png" width="120">
+[<img src="assets/sfb-logo.png" width="120">](https://www.virtuelle-lebenswelten.de/)
 
 
