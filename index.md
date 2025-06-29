@@ -98,6 +98,7 @@ The training and test datasets do not overlap in terms of YouTube videos. Furthe
 - Test data available: June 10, 2025
 - Evaluation start: June 16, 2025
 - Evaluation end: <del>June 27, 2025</del> June 28, 2025
+- Survey submission due: July 7, 2025
 - Paper submission due: July 11, 2025
 - Camera ready due: August 15, 2025
 - GermEval workshop: September 10, 2025 (co-located with KONVENS)
