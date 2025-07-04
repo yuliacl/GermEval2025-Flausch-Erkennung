@@ -104,7 +104,7 @@ The training and test datasets do not overlap in terms of YouTube videos. Furthe
 - GermEval workshop: September 10, 2025 (co-located with KONVENS)
 
 
-All deadlines are 00:00 UTC+0.
+All deadlines are 23:59 UTC+0.
 
 ### Participation
 
