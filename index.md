@@ -5,7 +5,8 @@ layout: default
 **Candy speech detection is an official [GermEval shared task](https://germeval.github.io/) co-located with the [KONVENS 2025](https://konvens-2025.hs-hannover.de/) conference.** 
 
 [Data](#data)\
-[Important dates](#dates)
+[Important dates](#dates)\
+[Workshop schedule](#schedule)
 
 ### Background 
 
@@ -110,6 +111,21 @@ All deadlines are 23:59 UTC+0.
 
 You can register on CodaBench for the subtask you want to participate in: [Subtask 1](https://www.codabench.org/competitions/6120/)/[Subtask 2](https://www.codabench.org/competitions/7921/)
 
+### Workshop - September 10, 2025 {#schedule}
+
+#### Schedule
+
+| **Time**          | **Activity**                        |
+|-------------------|-----------------------------------|
+| **10:30 AM – 11:30 AM** | **Oral Session**                  |
+| 10:30 AM – 10:45 AM   | Welcome + Overview by the Organizers |
+| 10:45 AM – 11:00 AM    | *AIxcellent Vibes*: Improving Model Performance by Span-Level Training                  |
+| 11:00 AM – 11:15 AM    | *HHUflauschig*: Hybrid Approaches for Binary Classification and Span Typing                    |
+| 11:15 AM – 11:30 AM    | Open Discussion / Q&A             |
+| **11:30 AM – 12:30 PM** | **GermEval Joint Poster Session**       |
+
+
+#### Poster format - details coming soon
 
 ### Organizers
 
