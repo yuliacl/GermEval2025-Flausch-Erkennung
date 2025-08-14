@@ -115,17 +115,40 @@ You can register on CodaBench for the subtask you want to participate in: [Subta
 
 #### Schedule
 
-| **Time**          | **Activity**                        |
-|-------------------|-----------------------------------|
-| **10:30 AM – 11:30 AM** | **Oral Session**                  |
-| 10:30 AM – 10:45 AM   | Welcome + Overview by the Organizers |
-| 10:45 AM – 11:00 AM    | *AIxcellent Vibes*: Improving Model Performance by Span-Level Training                  |
-| 11:00 AM – 11:15 AM    | *HHUflauschig*: Hybrid Approaches for Binary Classification and Span Typing                    |
-| 11:15 AM – 11:30 AM    | Open Discussion / Q&A             |
-| **11:30 AM – 12:30 PM** | **GermEval Joint Poster Session**       |
+<table>
+  <tr>
+    <th style="width: 200px;">Time</th>
+    <th>Activity</th>
+  </tr>
+  <tr>
+    <td><strong>10:30 AM – 11:30 AM</strong></td>
+    <td><strong>Oral Session</strong></td>
+  </tr>
+  <tr>
+    <td>10:30 AM – 10:45 AM</td>
+    <td>Welcome + Overview by the Organizers</td>
+  </tr>
+  <tr>
+    <td>10:45 AM – 11:00 AM</td>
+    <td><em>AIxcellent Vibes</em>: Improving Model Performance by Span-Level Training</td>
+  </tr>
+  <tr>
+    <td>11:00 AM – 11:15 AM</td>
+    <td><em>HHUflauschig</em>: Hybrid Approaches for Binary Classification and Span Typing</td>
+  </tr>
+  <tr>
+    <td>11:15 AM – 11:30 AM</td>
+    <td>Open Discussion / Q&A</td>
+  </tr>
+  <tr>
+    <td><strong>11:30 AM – 12:30 PM</strong></td>
+    <td><strong>GermEval Joint Poster Session</strong></td>
+  </tr>
+</table>
 
+#### Poster format
 
-#### Poster format - details coming soon
+Details coming soon
 
 ### Organizers
 
