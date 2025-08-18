@@ -146,9 +146,12 @@ You can register on CodaBench for the subtask you want to participate in: [Subta
   </tr>
 </table>
 
-#### Poster format
+#### Poster Format
 
-Details coming soon
+Please prepare your poster in one of the following formats:
+
+- A1: portrait or landscape orientation
+- A0: landscape orientation only
 
 ### Organizers
 
