@@ -111,6 +111,9 @@ All deadlines are 23:59 UTC+0.
 
 You can register on CodaBench for the subtask you want to participate in: [Subtask 1](https://www.codabench.org/competitions/6120/)/[Subtask 2](https://www.codabench.org/competitions/7921/)
 
+Participants' responses to the survey can be found [here](assets/Survey_responses.pdf)
+
+
 ### Workshop - September 10, 2025 {#schedule}
 
 #### Schedule
