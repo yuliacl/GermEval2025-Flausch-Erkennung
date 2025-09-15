@@ -113,6 +113,10 @@ You can register on CodaBench for the subtask you want to participate in: [Subta
 
 Participants' responses to the survey can be found [here](assets/Survey_responses.pdf)
 
+Presentation slides: [AIxcellentVibes](assets/Presentation_AIxcellentVibes.pdf), [HHUflauschig](assets/Presentation_HHUFlauschig.pdf)
+
+Posters: [Coling-UniA](assets/Poster_ColingUniA.pdf), [Die SuperGLEBer](assets/Poster_DieSuperGLEBer.pdf), [NLP_Augsburg_04](assets/Poster_NLPAugsburg04.pdf), [TUM NLP Group](assets/Poster_TUMNLPGroup.pdf)
+
 
 ### Workshop - September 10, 2025 {#schedule}
 
